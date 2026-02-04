@@ -1,0 +1,15 @@
+{
+  "app_name": "Git again Book and play",
+  "store_description": "Git again Book and play provides a convenient way for players to find available sports facilities at local clubs and quickly make bookings.",
+  "light_mode_button_background_colour": "#008538",
+  "light_mode_button_foreground_colour": "#FFFFFF",
+  "light_mode_link_colour": "#008538",
+  "form_control_outline_colour": "#008538",
+  "form_control_outline_colour_rgba": "rgba(0, 133, 56, 1)",
+  "form_control_fill_colour": "#00853814",
+  "form_control_fill_colour_rgba": "rgba(0, 133, 56, 0.078)",
+  "venue": {
+    "venue_id": "VEN5461",
+    "venue_name": "Git again"
+  }
+}
