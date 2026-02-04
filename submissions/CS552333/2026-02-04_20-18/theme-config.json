@@ -1,0 +1,15 @@
+{
+  "app_name": "Git attempt 3 Book and play",
+  "store_description": "Git attempt 3 Book and play provides a convenient way for players to find available sports facilities at local clubs and quickly make bookings.",
+  "light_mode_button_background_colour": "#34669e",
+  "light_mode_button_foreground_colour": "#FFFFFF",
+  "light_mode_link_colour": "#34669e",
+  "form_control_outline_colour": "#34669e",
+  "form_control_outline_colour_rgba": "rgba(52, 102, 158, 1)",
+  "form_control_fill_colour": "#34669e14",
+  "form_control_fill_colour_rgba": "rgba(52, 102, 158, 0.078)",
+  "venue": {
+    "venue_id": "VEN7300",
+    "venue_name": "Git attempt 3"
+  }
+}
