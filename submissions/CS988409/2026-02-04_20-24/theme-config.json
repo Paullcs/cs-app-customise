@@ -1,0 +1,15 @@
+{
+  "app_name": "My club name 4527 Book and play",
+  "store_description": "My club name 4527 Book and play provides a convenient way for players to find available sports facilities at local clubs and quickly make bookings.",
+  "light_mode_button_background_colour": "#1E40AF",
+  "light_mode_button_foreground_colour": "#FFFFFF",
+  "light_mode_link_colour": "#1E40AF",
+  "form_control_outline_colour": "#1E40AF",
+  "form_control_outline_colour_rgba": "rgba(30, 64, 175, 1)",
+  "form_control_fill_colour": "#1E40AF14",
+  "form_control_fill_colour_rgba": "rgba(30, 64, 175, 0.078)",
+  "venue": {
+    "venue_id": "VEN3859",
+    "venue_name": "My club name 4527"
+  }
+}
